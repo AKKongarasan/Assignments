@@ -12,6 +12,7 @@ public class DebugProgram {
 		System.out.println("Step5" + 5 / (4 - 7 + 3));
 		System.out.println("Step6");
 		System.out.println("Step7");
+		System.out.println("Step8");
 		System.out.println("End");
 
 	}
