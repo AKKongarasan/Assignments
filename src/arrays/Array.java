@@ -21,8 +21,16 @@ public class Array {
 		projects[1][1]= "sekar";
 		
 		
+		
+		//company 1, project 2, emp4 is Ak
 		String [][][] companies = new String[3][2][4];
-		companies[0][1][2]= "Ak";
+		companies[0][1][3]= "Ak";
+		
+		
+		
+		
+		
+		
 		
 
 	}

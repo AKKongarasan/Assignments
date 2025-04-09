@@ -38,6 +38,14 @@ public class TemperatureCelsius {
 		String email = "john.doe@example.com";
 		System.out.println("Person's email address:" + email );
 		
+		//Coordinates of a location (latitude, longtitude)
+		
+		float latitude = 37.7749f;
+		double longtitude = -122.4194;
+		System.out.println("Location of a latitude:"+latitude);
+		System.out.println("Location of a longtitude:"+longtitude);
+		
+		
 		//Martial status
 		//boolean is data type used for boolean values
 		
@@ -71,6 +79,43 @@ public class TemperatureCelsius {
 		
 		char bloodtype = 'A';
 		System.out.println("Person's blood type:" + bloodtype );
+		
+		
+		String book = "To kill a mockingbird";
+		System.out.println("Title of a book:" + book );
+		
+		
+		int employees = 500;
+		System.out.println("No of employee in company:" + employees );
+		
+		
+		String time = "2:30AM";
+		System.out.println("Time of an event:" + time );
+		
+		
+		String country = "India";
+		System.out.println("Name pof country:" + country);
+		
+		
+		String eyecolor = "brown";
+		System.out.println("Person eye color:" + eyecolor);
+		
+		
+		String birthplace = "India";
+		System.out.println("Person's birthplace:" + birthplace);
+		
+		
+		float distance = 200.5f;
+		System.out.println( "Distance between two sities:" + distance);
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 
