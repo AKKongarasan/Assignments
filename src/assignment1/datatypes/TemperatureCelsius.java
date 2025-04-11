@@ -44,7 +44,7 @@ public class TemperatureCelsius {
 		double longtitude = -122.4194;
 		System.out.println("Location of a latitude:"+latitude);
 		System.out.println("Location of a longtitude:"+longtitude);
-		
+		//System.out.println(latitude+longtitude);
 		
 		//Martial status
 		//boolean is data type used for boolean values
